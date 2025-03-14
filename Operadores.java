@@ -39,5 +39,4 @@ public class Operadores {
         g*=5;  // mesmo que g = g * 5 = 50
         g%=5;  // mesmo que g = g % 5 = 0
 
-    }
-}
+    }}
